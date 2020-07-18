@@ -2,3 +2,5 @@ Postgres_db.pyc
 __pycache__
 venv
 String_formatter.py
+.env
+.pgpass
