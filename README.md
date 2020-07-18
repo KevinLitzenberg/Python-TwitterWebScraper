@@ -4,15 +4,15 @@ Built using python3.8 no backward compatabiliyt tested, but since we are using f
 
 1. Create a virtual environment.
 
-    python3.8 -m venv venv
+    `python3.8 -m venv venv`
 
 2. Activate that environment.
 
-    source venv/bin/activate.
+    `source venv/bin/activate.`
 
 3. Install the pip packages.
 
-    pip install -r requirements.txt
+    `pip install -r requirements.txt`
 
 4. A psql db running on localhost:32768 
 
